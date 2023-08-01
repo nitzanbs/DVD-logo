@@ -1,0 +1,15 @@
+body{
+    width: ;
+    height: ;
+}
+
+
+img{
+    width: 10vw;
+    height: 20vh;
+}
+
+@keyframes DVD{
+    0%{  text-shadow: 0 0 3px #FF0000;    }
+    
+}
